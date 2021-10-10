@@ -12,6 +12,9 @@ Site Birden Fazla HTML Sayfa Açmayı Destekler,Yeni Bir Buton İle Başka Bir H
 Sitede Sıkıntı Mevcutsa Büyük Bir İhtimal İle Kodları Yanlışlıkla Silmiş Olabilirsiniz. **CTRL+Z** İle İlk Haline Geri Döndürebilirsiniz.
 Sorun Hala Devam Ediyorsa Sunucumuza Gelerek **Yardım** İsteyebilirsiniz,Yardımcı Olmaya Çalışacağız. 
 
+# Glitch Gibi Sitelerde Çalışır mı?
+Elbette Çalışır,Dosyayı İndirdikten Sonra Glitch'e Yükleyebilirsiniz. Bu Sayede Siteyi Glitch Üzerinden Kullanabilirsiniz. Replit vs Platformlarda da Çalışır.
+
 # İletişim: 
 - 🔭 Destek Almak İçin [Tıkla](https://discord.com/invite/zgDVN4wyxM) ~ |  **`lytwest#0686** - **KlouqzSenpai#1453**
 - 📫 **https://top.gg/bot/834768434574786561/invite** ~ | **Onaylı** Botumuzu Ekleyerek Destekte Bulunabilirsiniz.
