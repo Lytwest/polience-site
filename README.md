@@ -1,3 +1,6 @@
+<h1>  :pushpin: Yenilediğimiz Sitenin Görünümü</h1>
+<img src="https://cdn.discordapp.com/attachments/852824048463642624/897537686179577876/unknown.png" width="100%">
+
 # Lütfen Okuyunuz!
 Bu Site **"Başka Bir Kaynaktan Alınmış Olup"**,Discord Botları Olan **Geliştiriciler** İçin Sadeleştirilerek **Yenilenmiştir.**
 Sitenin Sadeleşmesinde Çoğu **"Index.js"** Kodları Silinmiştir ve En Sade Hali Almıştır.
